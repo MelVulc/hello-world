@@ -1,2 +1,3 @@
-# hello-world
 Brainstorming - Ideen
+
+Verein gemeinnützig helfen
